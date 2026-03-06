@@ -1,6 +1,6 @@
 # Terms of Service for ReadItLater
 
-**Last Updated:** December 19, 2025
+**Last Updated:** Friday, 6 March 2026
 
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the **ReadItLater** mobile application (the "Service") operated by us.
 
@@ -12,10 +12,10 @@ By accessing or using the Service you agree to be bound by these Terms. If you d
 **ReadItLater** is a utility application that allows users to save, organize, and manage web links locally on their mobile device. The Service is provided "as is" and is intended for personal productivity use.
 
 ## 2. User Data and Privacy
-Our Service is designed as a **local-first application**.
-*   **Local Storage:** All data you input (links, tags, preferences) is stored locally on your device. We do not host, store, or have access to your saved content.
-*   **Data Responsibility:** You are solely responsible for the links and content you save within the application.
-*   **Backups:** Since data is stored locally, you are responsible for maintaining backups of your data using the application's "Backup" feature. We are not liable for any data loss resulting from device failure, app uninstallation, or lost backup files.
+*   **Account and Synchronization:** You may create an account to synchronize your data across devices. By creating an account, you agree to our storage of your personal data, including links, tags, and preferences, on our servers to provide this functionality.
+*   **Local Storage:** For users without an account (where applicable), data is stored locally on your device. We are not liable for any data loss resulting from device failure or app uninstallation for local-only users.
+*   **Data Responsibility:** You are solely responsible for the links and content you save within the application, whether stored locally or synced to our servers.
+*   **Backups:** We recommend maintaining backups of your data using the application's "Backup" feature, regardless of your storage method.
 
 ## 3. Intellectual Property
 The Service and its original content (excluding content provided by you or other users), features, and functionality are and will remain the exclusive property of the **ReadItLater** developers and its licensors.
@@ -42,5 +42,13 @@ Your use of the Service is at your sole risk. The Service is provided on an "AS 
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time.
 
 ## 9. Contact Us
-If you have any questions about these Terms, please contact us. 
-Email address: info@piranti-persada.id
+If you have any questions about these Terms, please contact us. Email address: info@piranti-persada.id
+
+
+
+
+
+
+
+
+
