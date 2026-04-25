@@ -1,4 +1,4 @@
-## keanzelgoh/readitlater-policy
+## piranti-persada/readitlater-policy
 The official repository of the ReadItLater policies. <br>
 Click the buttons below to check the policies.
 
