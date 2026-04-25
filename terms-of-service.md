@@ -1,54 +1,81 @@
 # Terms of Service for ReadItLater
 
-**Last Updated:** Friday, 6 March 2026
+**Last Updated:** Saturday, 25 April 2026
 
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the **ReadItLater** mobile application (the "Service") operated by us.
+Please read these Terms of Service carefully before using the **ReadItLater** mobile application and related services (the "Service").
 
-Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
+By using the Service, you agree to these Terms. If you do not agree, do not use the Service.
 
-By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access the Service.
+## 1. Description of the Service
+ReadItLater is a personal productivity app for saving, organising, and managing web links, tags, collections, reminders, and related notes.
 
-## 1. Description of Service
-**ReadItLater** is a utility application that allows users to save, organize, and manage web links locally on their mobile device. The Service is provided "as is" and is intended for personal productivity use.
+You may use the app locally on your device or sign in to sync your data across devices through our backend services.
 
-## 2. User Data and Privacy
-*   **Account and Synchronization:** You may create an account to synchronize your data across devices. By creating an account, you agree to our storage of your personal data, including links, tags, and preferences, on our servers to provide this functionality.
-*   **Local Storage:** For users without an account (where applicable), data is stored locally on your device. We are not liable for any data loss resulting from device failure or app uninstallation for local-only users.
-*   **Data Responsibility:** You are solely responsible for the links and content you save within the application, whether stored locally or synced to our servers.
-*   **Backups:** We recommend maintaining backups of your data using the application's "Backup" feature, regardless of your storage method.
+## 2. Accounts and Sync
+If you create an account or sign in with Google, you agree that the app may send your account information and saved content to our backend so the Service can authenticate you and sync your data.
 
-## 3. Intellectual Property
-The Service and its original content (excluding content provided by you or other users), features, and functionality are and will remain the exclusive property of the **ReadItLater** developers and its licensors.
+You are responsible for:
 
-## 4. Links to Other Web Sites
-Our Service contains links to third-party web sites or services that are not owned or controlled by us.
-*   **ReadItLater** has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party web sites or services.
-*   You acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, or services available on or through any such web sites or services.
+* keeping your account access secure;
+* making sure the information you save is accurate and allowed to be stored;
+* reviewing your synced data before using it on another device;
+* understanding that signing out stops sync on that device, but local data may remain on the device.
 
-## 5. Termination
-We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
+If you delete your account in the app, the Service will request deletion of the account and associated server-side data.
 
-## 6. Limitation of Liability
-In no event shall **ReadItLater**, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:
-*   (i) your access to or use of or inability to access or use the Service;
-*   (ii) any conduct or content of any third party on the Service;
-*   (iii) any content obtained from the Service; and
-*   (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+## 3. User Content
+You own the links, notes, tags, collections, and other content you save in the app.
 
-## 7. Disclaimer
-Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement, or course of performance.
+You are solely responsible for the content you submit, store, or sync through the Service. Do not use the Service to store or share unlawful, harmful, infringing, or abusive content.
 
-## 8. Changes
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time.
+## 4. Notifications and Shared Content
+If you enable reminders, you are responsible for the reminder times you set and for granting the permissions required by your device.
 
-## 9. Contact Us
-If you have any questions about these Terms, please contact us. Email address: info@piranti-persada.id
+If you share content into the app from another app, you agree that ReadItLater may process that shared text, URL, or attachment data to create or update an entry.
 
+## 5. AI Sorting and Local Preferences
+The app includes AI sorting suggestions and style memory settings.
 
+These features currently use local logic and saved preferences to group your links. They are intended as convenience features only and may not always produce correct or useful results.
 
+## 6. Third-Party Services and Links
+The Service may use third-party services, including Google Sign-In, Firebase Analytics, Firebase Crashlytics, and external websites opened from within the app.
 
+ReadItLater does not control those third-party services and is not responsible for their content, policies, or practices.
 
+## 7. Intellectual Property
+The Service, including its design, branding, and original functionality, belongs to the ReadItLater developers and licensors.
 
+You may not copy, modify, reverse engineer, or redistribute the Service except where allowed by law or by a separate written agreement.
 
+## 8. Prohibited Use
+You agree not to:
 
+* use the Service in a way that breaks the law;
+* attempt to access data that does not belong to you;
+* interfere with the app, backend, or related services;
+* upload malware, spam, or abusive content;
+* misuse the Service for unauthorized commercial scraping or abuse.
 
+## 9. Termination
+We may suspend or terminate access to the Service if we believe you have violated these Terms or if we need to protect the Service or other users.
+
+You may stop using the Service at any time.
+
+## 10. Disclaimer
+The Service is provided on an "AS IS" and "AS AVAILABLE" basis.
+
+We do not guarantee that the Service will be uninterrupted, error-free, or that your data will always be available without loss.
+
+## 11. Limitation of Liability
+To the fullest extent allowed by law, ReadItLater and its developers will not be liable for indirect, incidental, special, consequential, or punitive damages arising from your use of the Service.
+
+This includes, without limitation, loss of data, loss of access, or problems caused by third-party services.
+
+## 12. Changes to These Terms
+We may update these Terms from time to time. If we do, we will post the updated version here with a new "Last Updated" date.
+
+## 13. Contact Us
+If you have questions about these Terms, contact us at:
+
+* **Email:** info@piranti-persada.id
