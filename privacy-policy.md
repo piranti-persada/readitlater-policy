@@ -1,56 +1,69 @@
 # Privacy Policy for ReadItLater
 
-**Last Updated:** Friday, 6 March 2026
+**Last Updated:** Saturday, 25 April 2026
 
 ## Introduction
-The **ReadItLater** app ("we," "our," or "us") is designed to help you save, organize, and manage web links efficiently. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your data.
+This Privacy Policy explains how the **ReadItLater** app collects, uses, and protects information when you use the app, the sign-in flow, syncing features, reminders, and related services.
 
-## Data Collection and Storage
-**ReadItLater** allows you to store your data locally or synchronize it across devices by creating an account.
-*   **Personal Data Collection:** If you choose to create an account, we collect and store your username, email address, password, and the links, tags, and collections you create to provide synchronization features.
-*   **Local Storage:** If you use the app without an account (where applicable), your data is stored exclusively on your device's internal memory using a local database.
-*   **Data Security:** Data transmitted to our servers during synchronization is securely processed and will not be shared with unauthorized third parties.
+## Information We Collect
+Depending on how you use the app, we may collect or process the following:
 
-## Permissions and Usage
-The app integrates with certain device capabilities and collects specific data to function correctly:
+* **Account information:** username, email address, authentication provider, session token, and profile picture URL. If you sign in with Google, we also process the Google identity token needed for authentication.
+* **Saved content:** links, titles, tags, collections, comments, favourites, reminder dates, visit counts, and deleted-item timestamps that you create in the app.
+* **Sync data:** when account sync is enabled, your saved content and account data are sent to our backend so they can be synced across devices.
+* **Device and app preferences:** language selection, sync settings, reminder settings, AI sorting settings, and style memory text stored on your device.
+* **Shared content:** text, URLs, and attachment paths that are shared into the app from other apps.
+* **Diagnostic and usage data:** on supported platforms, we use Firebase Analytics and Firebase Crashlytics, which may collect app usage, device, and crash data.
+* **Notification data:** reminder dates and related local notification details needed to schedule alerts on your device.
 
-1.  **Notifications:**
-    *   **Purpose:** To provide you with alerts for the links you have scheduled reminders for.
-    *   **Usage:** We require permission to schedule and send local notifications to your device based on times you have set.
+## How We Use Information
+We use the information above to:
 
-2.  **Account Data (Optional):**
-    *   **Purpose:** To enable cross-device synchronization and data backup.
-    *   **Usage:** If you choose to create an account, we collect your email address, username, and a securely hashed password. Your links, tags, and collections are securely transmitted to our servers strictly for synchronization and backup purposes.
+* store and organise your links and collections;
+* sync your data across devices when you are signed in and sync is enabled;
+* process links shared into the app;
+* schedule reminder notifications;
+* manage your account, sign-in, and profile features;
+* improve app stability and troubleshoot crashes;
+* support local AI sorting suggestions and style memory settings.
 
-3.  **Shared Data (Intents):**
-    *   **Purpose:** To allow you to save links directly from other apps (like your browser or YouTube) to ReadItLater.
-    *   **Usage:** When you "Share" a link to our app, we process the shared text/URL to create a new entry. If you are signed into an account, this data will be synced to our servers; otherwise, it remains stored solely on your device.
+The AI sorting feature in the current app is based on local logic and saved preferences. It does not send your links to an external AI provider for sorting.
 
-4.  **Open Links:**
-    *   **Purpose:** To allow you to visit the websites you have saved.
-    *   **Usage:** When you open a link, the app redirects you to your device's default web browser. We do not track your browsing history.
+## How Information Is Stored
+* Most link and collection data is stored locally in the app's SQLite database on your device.
+* Account and sync data are stored on our backend when you choose to sign in and enable sync.
+* Some preferences are stored locally on your device using shared preferences.
+* Signing out removes the local session from that device and turns off auto-sync there.
 
-## Third-Party Services
-We do not use any third-party analytics services (like Google Analytics or Firebase) or advertising networks. Your usage data remains private on your device.
+## Sharing and Third Parties
+We do not sell your personal information.
+
+We may share or transmit information to:
+
+* our backend services that provide sign-in and sync;
+* Google Sign-In, if you choose to use Google authentication;
+* Firebase Analytics and Firebase Crashlytics on supported platforms;
+* external websites or apps you choose to open from within ReadItLater;
+* external feedback pages you choose to visit from the app.
+
+Third-party services are governed by their own privacy policies.
+
+## Notifications and Permissions
+ReadItLater may request permission to send notifications and, on some Android devices, exact alarm access. These permissions are used only to deliver reminder notifications that you set in the app.
+
+The app may also use share intents to receive content from other apps. It only processes the content you explicitly share into ReadItLater.
+
+## Data Retention and Control
+* You can edit or delete links, collections, reminders, and account details from the app.
+* You can delete your account from the app, which instructs our backend to remove the account and associated server-side data.
+* Local data remains on your device until you delete it, clear the app data, or uninstall the app.
 
 ## Children's Privacy
-Our application is designed for general utility and is safe for use by all ages. We do not knowingly collect personal information from children under the age of 13.
+ReadItLater is intended for general use. We do not knowingly collect personal information from children under 13.
 
 ## Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy mainly through app updates.
+We may update this Privacy Policy from time to time. If we make changes, the updated version will be posted here with a new "Last Updated" date.
 
 ## Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-
-*   **Email:** info@piranti-persada.id
-
-
-
-
-
-
-
-
-
-
-
+If you have questions about this Privacy Policy, contact us at:
+* **Email:** info@piranti-persada.id
