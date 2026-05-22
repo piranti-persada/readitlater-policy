@@ -1,9 +1,9 @@
-# Privacy Policy for ReadItLater
+# Privacy Policy for Pile
 
-**Last Updated:** Saturday, 25 April 2026
+**Last Updated:** Friday, 22 May 2026
 
 ## Introduction
-This Privacy Policy explains how the **ReadItLater** app collects, uses, and protects information when you use the app, the sign-in flow, syncing features, reminders, and related services.
+This Privacy Policy explains how the **Pile** app collects, uses, and protects information when you use the app, the sign-in flow, syncing features, reminders, and related services.
 
 ## Information We Collect
 Depending on how you use the app, we may collect or process the following:
@@ -43,15 +43,15 @@ We may share or transmit information to:
 * our backend services that provide sign-in and sync;
 * Google Sign-In, if you choose to use Google authentication;
 * Firebase Analytics and Firebase Crashlytics on supported platforms;
-* external websites or apps you choose to open from within ReadItLater;
+* external websites or apps you choose to open from within Pile;
 * external feedback pages you choose to visit from the app.
 
 Third-party services are governed by their own privacy policies.
 
 ## Notifications and Permissions
-ReadItLater may request permission to send notifications and, on some Android devices, exact alarm access. These permissions are used only to deliver reminder notifications that you set in the app.
+Pile may request permission to send notifications and, on some Android devices, exact alarm access. These permissions are used only to deliver reminder notifications that you set in the app.
 
-The app may also use share intents to receive content from other apps. It only processes the content you explicitly share into ReadItLater.
+The app may also use share intents to receive content from other apps. It only processes the content you explicitly share into Pile.
 
 ## Data Retention and Control
 * You can edit or delete links, collections, reminders, and account details from the app.
@@ -59,7 +59,7 @@ The app may also use share intents to receive content from other apps. It only p
 * Local data remains on your device until you delete it, clear the app data, or uninstall the app.
 
 ## Children's Privacy
-ReadItLater is intended for general use. We do not knowingly collect personal information from children under 13.
+Pile is intended for general use. We do not knowingly collect personal information from children under 13.
 
 ## Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. If we make changes, the updated version will be posted here with a new "Last Updated" date.
