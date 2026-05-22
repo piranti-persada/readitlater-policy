@@ -1,5 +1,5 @@
 ## piranti-persada/readitlater-policy
-The official repository of the ReadItLater policies. <br>
+The official repository of the Pile policies. <br>
 Click the buttons below to check the policies.
 
 <a href="https://readitlater.piranti-persada.id/terms-of-service">
