@@ -2,7 +2,7 @@
 Users can delete their account directly within the app.
 
 ## Account Deletion Procedure
-1. Open the ReadItLater app  
+1. Open the Pile app  
 2. Navigate to "Settings"  
 3. Tap "Account Settings"  
 4. Tap "Delete account"  
